@@ -13,6 +13,7 @@ Ce projet est optimisé pour la synchronisation avec Webflow via GitHub. La stru
 - **Synchronisation automatique** : Les changements poussés sur GitHub sont automatiquement synchronisés avec Webflow Cloud
 - **Structure standard** : Organisation des fichiers compatible avec les attentes de Webflow
 - **Code statique pur** : Aucun framework ou dépendance Node.js qui pourrait causer des conflits
+- **Dernière synchronisation** : 24 novembre 2024 - Prêt pour l'import Webflow
 
 ## Structure du projet
 
